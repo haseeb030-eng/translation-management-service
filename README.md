@@ -26,7 +26,7 @@ A Laravel-based service for managing translations across multiple languages. Thi
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/haseeb030-eng/translation-management-service
 cd translation-management-service
 ```
 
@@ -69,7 +69,7 @@ The application will be available at http://localhost:80
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/haseeb030-eng/translation-management-service
 cd translation-management-service
 ```
 
